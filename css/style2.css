@@ -1,6 +1,6 @@
 /* Created by: Infinity de Guzman
  * Created on: Apr 2021
- * This CSS file defines the style for index.html ICS2O-Unit1-06-HTML-JS
+ * This CSS file defines the style for index2.html ICS2O-Unit1-06-HTML-JS
 */
 
 body {
@@ -8,8 +8,8 @@ body {
 }
 
 h1 {
-  background-color: #49beb7;
-  color: #badfdb;
+  background-color: #ff8a5c;
+  color: #ffc2aa;
   padding: 40px;
   text-align: center;
 }
