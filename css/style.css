@@ -4,7 +4,11 @@
 */
 
 body {
-  background-image: url("prettysunset.png");
+  background-image: url("prettysunset.jpg");
+  background-color: #fff7d2;
+  height: 500px;
+  background-position: center;
+  background-size: cover;
 }
 
 h1 {
