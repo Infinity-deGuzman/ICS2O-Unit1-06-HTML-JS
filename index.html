@@ -16,11 +16,19 @@
   </head>
   <body>
     <script>
-      function myButtonClicked()
+      function myButtonClicked() {
+        alert("Hello, World!")
+      }
+      function myButtonClicked2() {
+        alert("Bye, World!")
+      }
     </script>
     <h1>Hello, World! (with JS)</h1>
     <br>
-    <button>Click me :]</button>
+    <button onclick="myButtonClicked()">Click me :]</button>
+    <br>
+    <br>
+    <button onclick="myButtonClicked2()">Click me next :D</button>
     <br>
   </body>
 </html>
