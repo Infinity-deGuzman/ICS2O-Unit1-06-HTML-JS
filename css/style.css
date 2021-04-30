@@ -1,0 +1,25 @@
+/* Created by: Infinity de Guzman
+ * Created on: Apr 2021
+ * This CSS file defines the style for index.html ICS2O-Unit1-06-HTML-JS
+*/
+
+body {
+  background-color: #fff7d2;
+}
+
+title {
+  background-color: #ffc2aa;
+  color: #ff8a5c;
+}
+
+h1 {
+  background-color: #49beb7;
+  color: #badfdb;
+  padding: 40px;
+  text-align: center;
+}
+
+img {
+  max-width: 50%;
+  max-height: 50%;
+}
