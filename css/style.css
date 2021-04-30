@@ -5,6 +5,7 @@
 
 body {
   background-image: url("prettysunset.jpg");
+  background-repeat: repeat;
   background-color: #fff7d2;
   height: 500px;
   background-position: center;
